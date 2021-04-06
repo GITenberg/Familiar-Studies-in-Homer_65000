@@ -1,5 +1,8 @@
 _repo: Familiar-Studies-in-Homer_65000
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65000-h/images/cover.jpg
 creator:
   author:
     agent_name: Clerke, Agnes M. (Agnes Mary)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33220
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Mary_Clerke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65000#Familiar-Studies-in-Homer
 gutenberg_issued: '2021-04-05'
 gutenberg_type: Text
 identifiers:
